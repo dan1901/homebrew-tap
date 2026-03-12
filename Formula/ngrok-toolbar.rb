@@ -1,8 +1,8 @@
 class NgrokToolbar < Formula
   desc "macOS menu bar app for managing ngrok tunnels, sessions, and endpoints"
   homepage "https://github.com/dan1901/ngrok-toolbar"
-  url "https://github.com/dan1901/ngrok-toolbar/archive/refs/tags/v1.0.1.tar.gz"
-  sha256 "b99745633cbc55b397b8607036abbb9b00c1d79b88da613732a56c21430a5b32"
+  url "https://github.com/dan1901/ngrok-toolbar/archive/refs/tags/v1.0.3.tar.gz"
+  sha256 "84002d6f5a3e5a4d33bb94e07196eafa45f1de8faf86a55d34c186cc646034c8"
   license "MIT"
   head "https://github.com/dan1901/ngrok-toolbar.git", branch: "main"
 
